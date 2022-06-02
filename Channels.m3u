@@ -4,7 +4,7 @@
 https://www.dailymotion.com/player/metadata/video/x7wjmog
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Keshet%2012.png",Keshet 12
-https://mako-streaming.akamaized.net@@MAKO:lp=@@/stream/hls/live/2033791/k12dvr/index.m3u8@@?b-in-range=800-2400&@@TICKET@@
+http://mako-streaming.akamaized.net/direct/hls/live/2033791/k12/index_2200.m3u8
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Reshet%2013.png",Reshet 13
 http://d18b0e6mopany4.cloudfront.net/out/v1/08bc71cf0a0f4712b6b03c732b0e6d25/index.m3u8
@@ -16,7 +16,7 @@ https://d2lckchr9cxrss.cloudfront.net/out/v1/c73af7694cce4767888c08a7534b503c/in
 http://dvr.ch20-cdnwiz.com/hls/live.m3u8
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/n12.png",N12 News
-https://makostore-vh.akamaihd.net/i/SHORT/CH22_NEWS/YYYY/MM/mahadura_full_vtr2_nYYYYMMDD_v1/mahadura_full_vtr2_nYYYYMMDD_v1_,850,.mp4.csmil/master.m3u8
+https://mako-streaming.akamaized.net/n12/hls/live/2041434/n12s/index_2200.m3u8
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Sport1-1.png",Sport 1
 https://www.olacast.live/cdn/premium140/chunks.m3u8
@@ -79,13 +79,7 @@ http://live.tv247.club/tv247/history.m3u8
 https://www.olacast.live/cdn/premium328/chunks.m3u8
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/HGTV.png",HGTV
-https://content.uplynk.com/742vTsU/index.m3u8?channel=HGTV
-
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/DIY.png",DIY
-https://content.uplynk.com/742vTsU/index.m3u8?channel=DIY
-
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Travel.png",Travel
-https://content.uplynk.com/742vTsU/index.m3u8?channel=Travel
+http://live.tv247.club/tv247/hgtv.m3u8
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/HBO.png",HBO
 https://www.olacast.live/cdn/premium321/chunks.m3u8
@@ -93,11 +87,8 @@ https://www.olacast.live/cdn/premium321/chunks.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Showtime.png",Showtime
 https://www.olacast.live/cdn/premium333/chunks.m3u8
 
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Komo4News.png",Komo 4 News
-https://content.uplynk.com/SuNoSwen/index.m3u8?channel=140
-
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/King5News.png",King 5 News
-https://content.uplynk.com/SuNoSwen/index.m3u8?channel=233
+https://livevideo.tegnadigital.com/king/v1/master/f9c1bf9ffd6ac86b6173a7c169ff6e3f4efbd693/KING/live/live.m3u8
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Kiro7News.png",Kiro 7 News
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00327-coxmediagroup-kiro7seattle-ono/playlist.m3u8
