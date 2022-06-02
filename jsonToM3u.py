@@ -2,6 +2,8 @@
 import json
 import os
 import sys
+import re
+
 
 def main(args):
   if len(args) != 1:
@@ -14,6 +16,8 @@ def main(args):
 
   print("Opening JSON file " + args[0])
   print("Writing to file " + m3uFilePath)
+
+  excludeList = ["YYYY", "@@", "SuNoSwen", "742vTsU"]
 
   with (
     open(args[0], 'r') as jsonFile,
@@ -31,12 +35,16 @@ def main(args):
     for channel in data['Channels']:
       title = channel['TitleEng']
       logo = channel['Logo']
-      url = channel['StreamUrls'][0]
 
-      m3uFile.write('#EXTINF:0 tvg-logo="' + logo + '",' + title + '\n')
-      m3uFile.write(url + '\n\n')
-      counter = counter + 1
-    
+      pattern = re.compile("(?<="").*(?="")")
+
+      streamUrls = list(filter(lambda url: pattern.match(url) and all(x not in url for x in excludeList), channel['StreamUrls']))
+
+      if streamUrls:
+        m3uFile.write('#EXTINF:0 tvg-logo="' + logo + '",' + title + '\n')
+        m3uFile.write(streamUrls[0] + '\n\n')
+        counter = counter + 1
+
     print("Wrote [" + str(counter) + "] channels to m3u" )
 
 if __name__ == "__main__":
