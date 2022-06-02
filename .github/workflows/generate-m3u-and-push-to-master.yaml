@@ -4,6 +4,7 @@ on:
   push:
     paths:
       - 'Channels.json'
+  workflow_dispatch: # on button click
 
 jobs:
   build:
