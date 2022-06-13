@@ -17,8 +17,9 @@ def main(args):
   print("Opening JSON file " + args[0])
   print("Writing to file " + m3uFilePath)
 
-  excludeList = ["YYYY", "@@", "SuNoSwen", "742vTsU"]
-
+  excludeList = ["YYYY", "@@", "SuNoSwen", "742vTsU", "(", ")"]
+  pattern = re.compile("(?<="").*(?="")")
+  
   with (
     open(args[0], 'r') as jsonFile,
     open(m3uFilePath, 'w') as m3uFile
@@ -35,8 +36,6 @@ def main(args):
     for channel in data['Channels']:
       title = channel['TitleEng']
       logo = channel['Logo']
-
-      pattern = re.compile("(?<="").*(?="")")
 
       streamUrls = list(filter(lambda url: pattern.match(url) and all(x not in url for x in excludeList), channel['StreamUrls']))
 
