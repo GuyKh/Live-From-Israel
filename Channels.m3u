@@ -45,9 +45,6 @@ https://netwrk.ru.com/cdn/premium147/chunks.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Sport-5-Gold.jpg",Sport 5 Gold
 https://netwrk.ru.com/cdn/premium148/chunks.m3u8
 
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/SportOne-1.png",Sport One 1
-https://netwrk.ru.com/cdn/premium541/chunks.m3u8
-
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Hinuchit.png",Chinuchit 23
 http://kan23.media.kan.org.il/hls/live/2024691/2024691/master.m3u8
 
