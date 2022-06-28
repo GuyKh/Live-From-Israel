@@ -4,7 +4,7 @@
         {
             "DST" : "",
             "Repeat" : "3",
-            "Message" : ""
+            "Message" : "חדשות N12 לא עובד כרגע, גם לא באתר."
         },
     "TimeZoneOffset": "3",
     "Channels": [
@@ -67,8 +67,7 @@
             "EPGStationId": "מהדורת החדשות האחרונה. מתעדכן כל יום בשעה .22:00",        
             "StreamFormat": "hls",
             "StreamUrls": [
-                "https://makostore-vh.akamaihd.net/i/SHORT/CH22_NEWS/YYYY/MM/mahadura_full_vtr2_nYYYYMMDD_v1/mahadura_full_vtr2_nYYYYMMDD_v1_,850,.mp4.csmil/master.m3u8",
-                "https://mako-streaming.akamaized.net/n12/hls/live/2041434/n12s/index_2200.m3u8"
+                "https://makostore-vh.akamaihd.net/i/SHORT/CH22_NEWS/YYYY/MM/mahadura_full_vtr2_nYYYYMMDD_v1/mahadura_full_vtr2_nYYYYMMDD_v1_,850,.mp4.csmil/master.m3u8"
             ]
         },        
         {
@@ -287,18 +286,6 @@
             ],
             "StreamUrls": [
                 "https://networkbest.ru.com/cdn/premium553/chunks.m3u8"
-            ]
-        },
-        {
-            "Title": "חינוכית 23",
-            "TitleEng": "Chinuchit 23",
-            "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Hinuchit.png",
-            "EPGProvider": "Kan",
-            "EPGStationId": "19",
-            "StreamFormat": "hls",
-            "StreamUrls": [
-                "http://kan23.media.kan.org.il/hls/live/2024691/2024691/master.m3u8",
-                "https://www.dailymotion.com/player/metadata/video/x7ymw7f"
             ]
         },
         {
