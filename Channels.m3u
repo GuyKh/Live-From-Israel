@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Kan%2011.png",Kan 11
-https://srv.vhls.ru.com/cdn/premium548/chunks.m3u8
+https://www.dailymotion.com/player/metadata/video/x7wjmog
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Keshet%2012.png",Keshet 12
 http://mako-streaming.akamaized.net/direct/hls/live/2033791/k12/index_2200.m3u8
