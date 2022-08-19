@@ -102,6 +102,9 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00327-coxmediagroup-kiro7seattle-on
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Q13News.png",Q13 News
 https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,p-KCPQ-Monetizer.m3u8
 
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Search.png",Scan
+https://best.globalweb.ru.com/cdn/premium[1]-[999]/playlist.m3u8
+
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Sport%205%20Radio.jpg",Radio Sport 5
 https://rgelive.akamaized.net/hls/live/2043150/radio5/playlistMain_Aud_.m3u8
 
