@@ -16,9 +16,13 @@
             "EPGStationId": "3770",
             "BufferingTimer": "30",
             "StreamFormat": "hls",
+            "Headers": [
+                "Referer:https://olacast.live/"
+            ],
             "StreamUrls": [
                 "https://kan11.media.kan.org.il/hls/live/2024514/2024514/source1_2.5k/chunklist.m3u8",
                 "https://www.dailymotion.com/player/metadata/video/x7wjmog",
+                "https://best.globalweb.ru.com/cdn/premium548/playlist.m3u8",
                 "http://kan11sub.media.kan.org.il/hls/live/2024678/2024678/master.m3u8"
             ]
         },
@@ -285,6 +289,22 @@
             ],
             "StreamUrls": [
                 "https://best.globalweb.ru.com/cdn/premium544/playlist.m3u8"
+            ]
+        },
+        {
+            "Title": "יס סרטי פעולה",
+            "TitleEng": "Yes Movies Action",
+            "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/YesAction.png",
+            "EPGProvider": "Walla",
+            "EPGStationId": "316",
+            "Private": "True",
+            "BufferingTimer": "30",
+            "StreamFormat": "hls",
+            "Headers": [
+                "Referer:https://player.licenses4.me"
+            ],
+            "StreamUrls": [
+                "https://srv.vhls.ru.com/cdn/premium543/playlist.m3u8"
             ]
         },
         {
