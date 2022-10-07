@@ -9,13 +9,25 @@
     "TimeZoneOffset": "3",
     "Channels": [
         {
+            "Title": "זמני",
+            "TitleEng": "Temporary",
+            "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Temporary.jpg",
+            "Private": "True",
+            "BufferingTimer": "1",
+            "StreamFormat": "hls",
+            "Headers": [
+                "Referer:https://olacast.live/"],
+            "StreamUrls": [
+                "https://webudi.vhls.ru.com/lb/premium37/index.m3u8"
+            ]
+        },        
+        {
             "Title": "כאן 11",
             "TitleEng": "Kan 11",
             "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Kan%2011.png",
             "EPGProvider": "Walla",
             "EPGStationId": "3770",
             "Private": "True",
-            "BufferingTimer": "5",
             "StreamFormat": "hls",
             "Headers": [
                 "Referer:https://olacast.live/"
@@ -91,7 +103,7 @@
             "EPGProvider": "Sport1",
             "EPGStationId": "2",
             "Private": "True",
-            "BufferingTimer": "5",
+            "BufferingTimer": "1",
             "StreamFormat": "hls",
             "Headers": [
                 "Referer:https://olacast.live/"
@@ -107,7 +119,7 @@
             "EPGProvider": "Sport1",
             "EPGStationId": "3",
             "Private": "True",
-            "BufferingTimer": "5",
+            "BufferingTimer": "1",
             "StreamFormat": "hls",
             "Headers": [
                 "Referer:https://olacast.live/"
@@ -123,7 +135,7 @@
             "EPGProvider": "Sport1",
             "EPGStationId": "4",
             "Private": "True",
-            "BufferingTimer": "5",
+            "BufferingTimer": "1",
             "StreamFormat": "hls",
             "Headers": [
                 "Referer:https://olacast.live/"
@@ -139,7 +151,7 @@
             "EPGProvider": "Sport1",
             "EPGStationId": "5",
             "Private": "True",
-            "BufferingTimer": "5",
+            "BufferingTimer": "1",
             "StreamFormat": "hls",
             "Headers": [
                 "Referer:https://olacast.live/"
@@ -155,7 +167,7 @@
             "EPGProvider": "Sport5TV",
             "EPGStationId": "5",
             "Private": "True",
-            "BufferingTimer": "5",
+            "BufferingTimer": "1",
             "StreamFormat": "hls",
             "Headers": [
                 "Referer:https://olacast.live/"
@@ -171,7 +183,7 @@
             "EPGProvider": "Sport5TV",
             "EPGStationId": "5P",
             "Private": "True",
-            "BufferingTimer": "5",
+            "BufferingTimer": "1",
             "StreamFormat": "hls",
             "Headers": [
                 "Referer:https://olacast.live/"
@@ -187,7 +199,7 @@
             "EPGProvider": "Sport5TV",
             "EPGStationId": "LIVE",
             "Private": "True",
-            "BufferingTimer": "5",
+            "BufferingTimer": "1",
             "StreamFormat": "hls",
             "Headers": [
                 "Referer:https://olacast.live/"
@@ -203,7 +215,7 @@
             "EPGProvider": "Sport5TV",
             "EPGStationId": "5STARS",
             "Private": "True",
-            "BufferingTimer": "5",
+            "BufferingTimer": "1",
             "StreamFormat": "hls",
             "Headers": [
                 "Referer:https://olacast.live/"
@@ -219,7 +231,7 @@
             "EPGProvider": "Walla",
             "EPGStationId": "3551",
             "Private": "True",
-            "BufferingTimer": "5",
+            "BufferingTimer": "1",
             "StreamFormat": "hls",
             "Headers": [
                 "Referer:https://olacast.live/"
@@ -233,7 +245,7 @@
             "TitleEng": "Sport One 2",
             "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/SportOne-2.png",
             "Private": "True",
-            "BufferingTimer": "5",
+            "BufferingTimer": "1",
             "StreamFormat": "hls",
             "Headers": [
                 "Referer:https://olacast.live/"
@@ -249,7 +261,7 @@
             "EPGProvider": "flixed.io.ENG",
             "EPGStationId": "10179",
             "Private": "True",
-            "BufferingTimer": "5",
+            "BufferingTimer": "1",
             "StreamFormat": "hls",
             "Headers": [
                 "Referer:https://olacast.live/"            ],
@@ -264,7 +276,7 @@
             "EPGProvider": "flixed.io.ENG",
             "EPGStationId": "12444",
             "Private": "True",
-            "BufferingTimer": "5",
+            "BufferingTimer": "1",
             "StreamFormat": "hls",
             "Headers": [
                 "Referer:https://olacast.live/"            ],
@@ -279,7 +291,7 @@
             "EPGProvider": "flixed.io.ENG",
             "EPGStationId": "45399",
             "Private": "True",
-            "BufferingTimer": "5",
+            "BufferingTimer": "1",
             "StreamFormat": "hls",
             "Headers": [
                 "Referer:https://olacast.live/"            ],
@@ -292,7 +304,7 @@
             "TitleEng": "Humor Channel",
             "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Humor.jpg",
             "Private": "True",
-            "BufferingTimer": "5",
+            "BufferingTimer": "1",
             "StreamFormat": "hls",
             "Headers": [
                 "Referer:https://olacast.live/"
@@ -306,7 +318,7 @@
             "TitleEng": "Hot HBO",
             "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/HotHBO.jpg",
             "Private": "True",
-            "BufferingTimer": "5",
+            "BufferingTimer": "1",
             "StreamFormat": "hls",
             "Headers": [
                 "Referer:https://olacast.live/"
@@ -322,7 +334,7 @@
             "EPGProvider": "Walla",
             "EPGStationId": "353",
             "Private": "True",
-            "BufferingTimer": "5",
+            "BufferingTimer": "1",
             "StreamFormat": "hls",
             "Headers": [
                 "Referer:https://olacast.live/"
@@ -336,7 +348,7 @@
             "TitleEng": "Yes Movies Kids",
             "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/YesKids.png",
             "Private": "True",
-            "BufferingTimer": "5",
+            "BufferingTimer": "1",
             "StreamFormat": "hls",
             "Headers": [
                 "Referer:https://olacast.live/"
@@ -352,7 +364,7 @@
             "EPGProvider": "Walla",
             "EPGStationId": "316",
             "Private": "True",
-            "BufferingTimer": "5",
+            "BufferingTimer": "1",
             "StreamFormat": "hls",
             "Headers": [
                 "Referer:https://olacast.live/"
@@ -447,7 +459,7 @@
             "EPGProvider": "742vTsUENG",
             "EPGStationId": "DSC",
             "Private": "True",
-            "BufferingTimer": "5",
+            "BufferingTimer": "1",
             "StreamFormat": "hls",
             "Headers": [
                 "Referer:http://tv247.us/ https://olacast.live/"
@@ -464,7 +476,7 @@
             "EPGProvider": "742vTsUENG",
             "EPGStationId": "HIST",
             "Private": "True",
-            "BufferingTimer": "5",
+            "BufferingTimer": "1",
             "StreamFormat": "hls",
             "Headers": [
                 "Referer:http://tv247.us/ https://olacast.live/"
@@ -481,7 +493,7 @@
             "EPGProvider": "742vTsUENG",
             "EPGStationId": "NGC",
             "Private": "True",
-            "BufferingTimer": "5",
+            "BufferingTimer": "1",
             "StreamFormat": "hls",
             "Headers": [
                 "Referer:https://olacast.live/"
@@ -592,7 +604,7 @@
             "EPGProvider": "Text",
             "EPGStationId": "חיפוש ערוצים בלחיצה על חץ למעלה (+1), למטה (1-), ימינה (+100) או שמאלה (100-).",        
             "Private": "True",
-            "BufferingTimer": "5",
+            "BufferingTimer": "1",
             "StreamFormat": "hls",
             "Headers": [
                 "Referer:https://olacast.live/"
