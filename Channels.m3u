@@ -54,6 +54,12 @@ https://webudi.openhd.lol/lb/premium45/index.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/NFLNetwork.png",NFL Network
 https://webudi.openhd.lol/lb/premium405/index.m3u8
 
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/SkySportsNFL.png",Sky Sports NFL
+https://webudi.openhd.lol/lb/premium37/index.m3u8
+
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/SkySportsMainEvent.png",Sky Sports Main Event
+https://webudi.openhd.lol/lb/premium38/index.m3u8
+
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Humor.jpg",Humor Channel
 https://webudi.openhd.lol/lb/premium551/index.m3u8
 
