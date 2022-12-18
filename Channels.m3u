@@ -1,11 +1,5 @@
 #EXTM3U
 
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Qatar2022.png",Mondial 2022
-https://webudi.openhd.lol/lb/premium39/index.m3u8
-
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Qatar2022.png",Mondial 2022
-https://webudi.openhd.lol/lb/premium54/index.m3u8
-
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Kan%2011.png",Kan 11
 https://kan11.media.kan.org.il/hls/live/2024514/2024514/source1_2.5k/chunklist.m3u8
 
@@ -120,9 +114,6 @@ https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,p
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Search.png",Scan
 https://webudi.openhd.lol/lb/premium[1]-[600]/index.m3u8
 
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Sport%205%20Radio.jpg",Radio Sport 5
-https://rgelive.akamaized.net/hls/live/2043150/radio5/playlistMain_Aud_.m3u8
-
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Gltz.jpg",Galaz
 http://glzwizzlv.bynetcdn.com/glz_mp3?awCollectionId=misc&awEpisodeId=glz
 
@@ -152,9 +143,6 @@ http://kanliveicy.media.kan.org.il/icy/kan88_mp3
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/90fm.png",90FM - Middle of the Road
 http://90.cdnwz.net/90fm
-
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/kolbarama_92.png",91.2FM - Kol BaRama
-http://kb.cdnwz.net/kol_barama
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/kol_chai_93fm.png",93FM - Kol Chai
 https://media2.93fm.co.il/live-new
@@ -209,7 +197,4 @@ http://kanliveicy.media.kan.org.il/icy/kanbet_mp3
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/ipbc_radio_gimmel.png",Reshet Gimel
 http://kanliveicy.media.kan.org.il/icy/kangimmel_mp3
-
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/ipbc_radio_moreshet.png",Moreshet
-http://kanliveicy.media.kan.org.il/icy/kanmoreshet_mp3
 
