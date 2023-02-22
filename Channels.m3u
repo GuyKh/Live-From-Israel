@@ -138,12 +138,6 @@ http://kanliveicy.media.kan.org.il/icy/kan88_mp3
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/90fm.png",90FM - Middle of the Road
 http://90.cdnwz.net/90fm
 
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/kol_chai_93fm.png",93FM - Kol Chai
-https://media2.93fm.co.il/live-new
-
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/kolrega_96fm.png",96FM - Kol Rega
-https://radio.streamgates.net/stream/KOLREGA
-
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/eco99fm.png",99FM - Echo
 http://99.livecdn.biz/99fm
 
