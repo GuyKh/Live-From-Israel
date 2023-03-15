@@ -1,10 +1,10 @@
 #EXTM3U
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Kan%2011.png",Kan 11
-https://kan11.media.kan.org.il/hls/live/2024514/2024514/master.m3u8
+https://kan11b.media.kan.org.il/hls/live/2096972/2096972/playlist.m3u8
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Keshet%2012.png",Keshet 12
-https://webudi.webtv1.lol/lb/premium549/index.m3u8
+https://webudit.onlinewebtv.lol/lb/premium549/index.m3u8
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Reshet%2013.jpg",Reshet 13
 http://d18b0e6mopany4.cloudfront.net/out/v1/08bc71cf0a0f4712b6b03c732b0e6d25/index.m3u8
@@ -13,64 +13,64 @@ http://d18b0e6mopany4.cloudfront.net/out/v1/08bc71cf0a0f4712b6b03c732b0e6d25/ind
 https://d2lckchr9cxrss.cloudfront.net/out/v1/c73af7694cce4767888c08a7534b503c/index.m3u8
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Sport1-1.png",Sport 1
-https://webudi.webtv1.lol/lb/premium140/index.m3u8
+https://webudit.onlinewebtv.lol/lb/premium140/index.m3u8
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Sport1-3.png",Sport 2
-https://webudi.webtv1.lol/lb/premium141/index.m3u8
+https://webudit.onlinewebtv.lol/lb/premium141/index.m3u8
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Sport1-4.png",Sport 3
-https://webudi.webtv1.lol/lb/premium142/index.m3u8
+https://webudit.onlinewebtv.lol/lb/premium142/index.m3u8
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Sport1-5.png",Sport 4
-https://webudi.webtv1.lol/lb/premium143/index.m3u8
+https://webudit.onlinewebtv.lol/lb/premium143/index.m3u8
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Sport-5.jpg",Sport 5
-https://webudi.webtv1.lol/lb/premium144/index.m3u8
+https://webudit.onlinewebtv.lol/lb/premium144/index.m3u8
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Sport-5-Plus.jpg",Sport 5 Plus
-https://webudi.webtv1.lol/lb/premium145/index.m3u8
+https://webudit.onlinewebtv.lol/lb/premium145/index.m3u8
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Sport-5-Live.jpg",Sport 5 Live
-https://webudi.webtv1.lol/lb/premium146/index.m3u8
+https://webudit.onlinewebtv.lol/lb/premium146/index.m3u8
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Sport-5-Stars.jpg",Sport 5 Stars
-https://webudi.webtv1.lol/lb/premium147/index.m3u8
+https://webudit.onlinewebtv.lol/lb/premium147/index.m3u8
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Sport-5-Gold.jpg",Sport 5 Gold
-https://webudi.webtv1.lol/lb/premium148/index.m3u8
+https://webudit.onlinewebtv.lol/lb/premium148/index.m3u8
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/SportOne-1.png",Sport One 1
-https://webudi.webtv1.lol/lb/premium541/index.m3u8
+https://webudit.onlinewebtv.lol/lb/premium541/index.m3u8
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/SportOne-2.png",Sport One 2
-https://webudi.webtv1.lol/lb/premium542/index.m3u8
+https://webudit.onlinewebtv.lol/lb/premium542/index.m3u8
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/ESPN.png",ESPN
-https://webudi.webtv1.lol/lb/premium44/index.m3u8
+https://webudit.onlinewebtv.lol/lb/premium44/index.m3u8
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/ESPN2.png",ESPN 2
-https://webudi.webtv1.lol/lb/premium45/index.m3u8
+https://webudit.onlinewebtv.lol/lb/premium45/index.m3u8
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/NFLNetwork.png",NFL Network
-https://webudi.webtv1.lol/lb/premium405/index.m3u8
+https://webudit.onlinewebtv.lol/lb/premium405/index.m3u8
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/SkySportsNFL.png",Sky Sports NFL
-https://webudi.webtv1.lol/lb/premium37/index.m3u8
+https://webudit.onlinewebtv.lol/lb/premium37/index.m3u8
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/SkySportsMainEvent.png",Sky Sports Main Event
-https://webudi.webtv1.lol/lb/premium38/index.m3u8
+https://webudit.onlinewebtv.lol/lb/premium38/index.m3u8
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/YesKids.png",Yes Movies Kids
-https://webudi.webtv1.lol/lb/premium544/index.m3u8
+https://webudit.onlinewebtv.lol/lb/premium544/index.m3u8
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/YesAction.png",Yes Movies Action
-https://webudi.webtv1.lol/lb/premium543/index.m3u8
+https://webudit.onlinewebtv.lol/lb/premium543/index.m3u8
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/YesComedy.png",Yes Movies Comedy
-https://webudi.webtv1.lol/lb/premium545/index.m3u8
+https://webudit.onlinewebtv.lol/lb/premium545/index.m3u8
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Hot3.png",Hot 3
-https://webudi.webtv1.lol/lb/premium553/index.m3u8
+https://webudit.onlinewebtv.lol/lb/premium553/index.m3u8
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/24.jpg",Channel 24
 https://mako-streaming.akamaized.net/direct/hls/live/2035340/ch24live/video_7201280_p_1.m3u8
@@ -79,7 +79,7 @@ https://mako-streaming.akamaized.net/direct/hls/live/2035340/ch24live/video_7201
 https://contactgbs.mmdlive.lldns.net/contactgbs/a40693c59c714fecbcba2cee6e5ab957/manifest.m3u8
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/CNN.png",CNN
-https://webudi.webtv1.lol/lb/premium345/index.m3u8
+https://webudit.onlinewebtv.lol/lb/premium345/index.m3u8
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/ABCNews.jpg",ABC News
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
@@ -88,16 +88,16 @@ https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 https://nbcnews2.akamaized.net/hls/live/723426/NBCNewsPlaymaker24x7Linear99a3a827-ua/master.m3u8
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Discovery.png",Discovery
-https://webudi.webtv1.lol/lb/premium313/index.m3u8
+https://webudit.onlinewebtv.lol/lb/premium313/index.m3u8
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/History.png",History
-https://webudi.webtv1.lol/lb/premium322/index.m3u8
+https://webudit.onlinewebtv.lol/lb/premium322/index.m3u8
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/NationalGeographic.png",National Geographic
-https://webudi.webtv1.lol/lb/premium328/index.m3u8
+https://webudit.onlinewebtv.lol/lb/premium328/index.m3u8
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Travel.png",Travel
-https://webudi.webtv1.lol/lb/premium340/index.m3u8
+https://webudit.onlinewebtv.lol/lb/premium340/index.m3u8
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/King5News.png",King 5 News
 https://livevideo.tegnadigital.com/king/v1/master/f9c1bf9ffd6ac86b6173a7c169ff6e3f4efbd693/KING/live/live.m3u8
@@ -109,7 +109,7 @@ https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,p
 https://vladruman.com/hls/00[1]-[20].m3u8
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Search.png",Scan 2
-https://webudi.webtv1.lol/lb/premium[1]-[800]/index.m3u8
+https://webudit.onlinewebtv.lol/lb/premium[1]-[800]/index.m3u8
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Gltz.jpg",Galaz
 http://glzwizzlv.bynetcdn.com/glz_mp3?awCollectionId=misc&awEpisodeId=glz
