@@ -12,10 +12,6 @@
             "Title": "כאן 11",
             "TitleEng": "Kan 11",
             "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Kan%2011.png",
-            "EPGProvider0": "Kan",
-            "EPGStationId0": "1",
-            "EPGProvider1": "Walla",
-            "EPGStationId1": "3770",
             "EPGProvider": "AidemArsi",
             "EPGStationId": "1",
             "Private": "True",
@@ -198,22 +194,6 @@
             ]
         },
         {
-            "Title": "ספורט 5 סטארס",
-            "TitleEng": "Sport 5 Stars",
-            "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Sport-5-Stars.jpg",
-            "EPGProvider": "Sport5TV",
-            "EPGStationId": "5STARS",
-            "Private": "True",
-            "BufferingTimer": "1",
-            "StreamFormat": "hls",
-            "Headers": [
-                "Referer:https://ntuplay.xyz/"
-            ],
-            "StreamUrls": [
-                "https://webudit.salamus1.lol/lb/premium147/index.m3u8"
-            ]
-        },
-        {
             "Title": "ספורט 5 גולד",
             "TitleEng": "Sport 5 Gold",
             "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Sport-5-Gold.jpg",
@@ -233,8 +213,6 @@
             "Title": "ספורט 1 One",
             "TitleEng": "Sport One 1",
             "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/SportOne-1.png",
-            "EPGProvider1": "Walla",
-            "EPGStationId1": "3551",
             "Private": "True",
             "BufferingTimer": "1",
             "StreamFormat": "hls",
@@ -376,8 +354,6 @@
             "Title": "הוט 3",
             "TitleEng": "Hot 3",
             "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Hot3.png",
-            "EPGProvider1": "Walla",
-            "EPGStationId1": "353",
             "Private": "True",
             "BufferingTimer": "1",
             "StreamFormat": "hls",
@@ -392,8 +368,6 @@
             "Title": "ערוץ 24 החדש",
             "TitleEng": "Channel 24",
             "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/24.jpg",
-            "EPGProvider": "Walla",
-            "EPGStationId": "255",
             "Private": "True",
             "StreamFormat": "hls",
             "StreamUrls": [
@@ -659,8 +633,6 @@
             "Title": "88FM",
             "TitleEng": "88FM",
             "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/ipbc_radio_88.png",
-            "EPGProvider": "Kan",
-            "EPGStationId": "4",
             "StreamFormat": "mp3",
             "StreamUrls": [
                 "http://kanliveicy.media.kan.org.il/icy/kan88_mp3"
@@ -744,8 +716,6 @@
             "Title": "קול המוסיקה",
             "TitleEng": "Kol Hamusica",
             "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/ipbc_radio_musika.png",
-            "EPGProvider": "Kan",
-            "EPGStationId": "5",
             "StreamFormat": "mp3",
             "StreamUrls": [
                 "http://kanliveicy.media.kan.org.il/icy/kankolhamusica_mp3"
@@ -755,8 +725,6 @@
             "Title": "תרבות",
             "TitleEng": "Tarbut",
             "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/ipbc_radio_tarbut.png",
-            "EPGProvider": "Kan",
-            "EPGStationId": "7",
             "StreamFormat": "mp3",
             "StreamUrls": [
                 "http://kanliveicy.media.kan.org.il/icy/kantarbut_mp3"
@@ -766,8 +734,6 @@
             "Title": "רשת ב",
             "TitleEng": "Reshet Bet",
             "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/ipbc_radio_bet.png",
-            "EPGProvider": "Kan",
-            "EPGStationId": "8",
             "StreamFormat": "mp3",
             "StreamUrls": [
                 "http://kanliveicy.media.kan.org.il/icy/kanbet_mp3"
@@ -777,8 +743,6 @@
             "Title": "רשת ג",
             "TitleEng": "Reshet Gimel",
             "Logo": "https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/ipbc_radio_gimmel.png",
-            "EPGProvider": "Kan",
-            "EPGStationId": "9",
             "StreamFormat": "mp3",
             "StreamUrls": [
                 "http://kanliveicy.media.kan.org.il/icy/kangimmel_mp3"
