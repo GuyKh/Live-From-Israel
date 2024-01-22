@@ -99,24 +99,6 @@ http://glzwizzlv.bynetcdn.com/glz_mp3?awCollectionId=misc&awEpisodeId=glz
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Glgltz.jpg",Galgalaz
 http://glzwizzlv.bynetcdn.com/glglz_mp3?awCollectionId=misc&awEpisodeId=glglz
 
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/glglz-alt.png",Galgalaz - Alternative
-http://glzwizzlv.bynetcdn.com/glglz_alt_mp3?awCollectionId=misc&awEpisodeId=glglz_alt
-
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/glglz-rock.png",Galgalaz - Classic Rock
-http://glzwizzlv.bynetcdn.com/glglz_rock_mp3?awCollectionId=misc&awEpisodeId=glglz_rock
-
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/glglz-med.png",Galgalaz - Mediterranean
-http://glzwizzlv.bynetcdn.com/glglz_med_mp3?awCollectionId=misc&awEpisodeId=glglz_med
-
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/glglz-classicil.png",Galgalaz - Hebrew
-http://glzwizzlv.bynetcdn.com/glglz_classicil_mp3?awCollectionId=misc&awEpisodeId=glglz_classicil
-
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/glglz-hits.png",Galgalaz - Hits
-http://glzwizzlv.bynetcdn.com/glglz_mp3?awCollectionId=misc&awEpisodeId=glglz
-
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/glglz-sofshavua.png",Galgalaz - Calm Weekend
-http://glzwizzlv.bynetcdn.com/glglz_sofshavua_mp3?awCollectionId=misc&awEpisodeId=glglz_sofshavua
-
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/ipbc_radio_88.png",88FM
 http://kanliveicy.media.kan.org.il/icy/kan88_mp3
 
