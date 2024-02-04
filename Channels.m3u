@@ -73,7 +73,7 @@ https://webudit.webhd.ru/lb/premium553/index.m3u8
 https://mako-streaming.akamaized.net/direct/hls/live/2035340/ch24live/video_7201280_p_1.m3u8
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Knesset.png",Knesset
-https://contact.gostreaming.tv/Accessibility/myStream/playlist.m3u8
+https://contactgbs.mmdlive.lldns.net/contactgbs/a40693c59c714fecbcba2cee6e5ab957/manifest.m3u8
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/CNN.png",CNN
 https://d30x5vsa85tvmd.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-7y561g9sa9uht/index.m3u8
