@@ -4,7 +4,7 @@
 https://kan11.media.kan.org.il/hls/live/2024514/2024514/master.m3u8
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Keshet%2012.png",Keshet 12
-https://webudit.webhd.ru/lb/premium549/index.m3u8
+https://webhdrus.onlinehdhls.ru/lb/premium549/index.m3u8
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Reshet%2013.jpg",Reshet 13
 http://d18b0e6mopany4.cloudfront.net/out/v1/08bc71cf0a0f4712b6b03c732b0e6d25/index.m3u8
@@ -13,61 +13,61 @@ http://d18b0e6mopany4.cloudfront.net/out/v1/08bc71cf0a0f4712b6b03c732b0e6d25/ind
 https://d2lckchr9cxrss.cloudfront.net/out/v1/c73af7694cce4767888c08a7534b503c/index.m3u8
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Sport1-1.png",Sport 1
-https://webudit.webhd.ru/lb/premium140/index.m3u8
+https://webhdrus.onlinehdhls.ru/lb/premium140/index.m3u8
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Sport1-3.png",Sport 2
-https://webudit.webhd.ru/lb/premium141/index.m3u8
+https://webhdrus.onlinehdhls.ru/lb/premium141/index.m3u8
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Sport1-4.png",Sport 3
-https://webudit.webhd.ru/lb/premium142/index.m3u8
+https://webhdrus.onlinehdhls.ru/lb/premium142/index.m3u8
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Sport1-5.png",Sport 4
-https://webudit.webhd.ru/lb/premium143/index.m3u8
+https://webhdrus.onlinehdhls.ru/lb/premium143/index.m3u8
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Sport-5.jpg",Sport 5
-https://webudit.webhd.ru/lb/premium144/index.m3u8
+https://webhdrus.onlinehdhls.ru/lb/premium144/index.m3u8
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Sport-5-Plus.jpg",Sport 5 Plus
-https://webudit.webhd.ru/lb/premium145/index.m3u8
+https://webhdrus.onlinehdhls.ru/lb/premium145/index.m3u8
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Sport-5-Live.jpg",Sport 5 Live
-https://webudit.webhd.ru/lb/premium146/index.m3u8
+https://webhdrus.onlinehdhls.ru/lb/premium146/index.m3u8
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Sport-5-Stars.jpg",Sport 5 Stars
-https://webudit.webhd.ru/lb/premium147/index.m3u8
+https://webhdrus.onlinehdhls.ru/lb/premium147/index.m3u8
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Sport-5-Gold.jpg",Sport 5 Gold
-https://webudit.webhd.ru/lb/premium148/index.m3u8
+https://webhdrus.onlinehdhls.ru/lb/premium148/index.m3u8
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/SportOne-1.png",Sport One 1
-https://webudit.webhd.ru/lb/premium541/index.m3u8
+https://webhdrus.onlinehdhls.ru/lb/premium541/index.m3u8
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/SportOne-2.png",Sport One 2
-https://webudit.webhd.ru/lb/premium542/index.m3u8
+https://webhdrus.onlinehdhls.ru/lb/premium542/index.m3u8
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/ESPN.png",ESPN
-https://webudit.webhd.ru/lb/premium44/index.m3u8
+https://webhdrus.onlinehdhls.ru/lb/premium44/index.m3u8
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/ESPN2.png",ESPN 2
-https://webudit.webhd.ru/lb/premium45/index.m3u8
+https://webhdrus.onlinehdhls.ru/lb/premium45/index.m3u8
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/NFLNetwork.png",NFL Network
-https://webudit.webhd.ru/lb/premium405/index.m3u8
+https://webhdrus.onlinehdhls.ru/lb/premium405/index.m3u8
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/SkySportsNFL.png",Sky Sports NFL
-https://webudit.webhd.ru/lb/premium37/index.m3u8
+https://webhdrus.onlinehdhls.ru/lb/premium37/index.m3u8
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/YesKids.png",Yes Movies Kids
-https://webudit.webhd.ru/lb/premium544/index.m3u8
+https://webhdrus.onlinehdhls.ru/lb/premium544/index.m3u8
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/YesAction.png",Yes Movies Action
-https://webudit.webhd.ru/lb/premium543/index.m3u8
+https://webhdrus.onlinehdhls.ru/lb/premium543/index.m3u8
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/YesComedy.png",Yes Movies Comedy
-https://webudit.webhd.ru/lb/premium545/index.m3u8
+https://webhdrus.onlinehdhls.ru/lb/premium545/index.m3u8
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Hot3.png",Hot 3
-https://webudit.webhd.ru/lb/premium553/index.m3u8
+https://webhdrus.onlinehdhls.ru/lb/premium553/index.m3u8
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/24.jpg",Channel 24
 https://mako-streaming.akamaized.net/direct/hls/live/2035340/ch24live/video_7201280_p_1.m3u8
@@ -91,7 +91,7 @@ https://livevideo.tegnadigital.com/king/v1/master/f9c1bf9ffd6ac86b6173a7c169ff6e
 https://csm-e-eb.csm.tubi.video/csm/live/622835763.m3u8?playback_start_ts=1704666696&yo.ap=https://lna.tubi.video/prd-yospace/&yo.t.jt=1000&app_id=tubitv&app_mode=DEFAULT_MODE&content_id=555107&content_type=mp4&device_id=caec4c21-b9fb-4e15-bcc4-33cc34e9e679&language=en&now_pos=0&platform=WEB&pub_id=0a2ada522f8db273c200b95eee98d316&vpaid_enabled=true&yo.eb.fb=aHR0cHM6Ly9saXZlLW1hbmlmZXN0LnByb2R1Y3Rpb24tcHVibGljLnR1YmkuaW8vbGl2ZS9rY3BxL2gyNjQvcGxheWxpc3QubTN1OD90b2tlbj1leUpoYkdjaU9pSklVelV4TWlJc0luUjVjQ0k2SWtwWFZDSjkuZXlKamIzVnVkSEo1SWpvaVZWTWlMQ0prWlhacFkyVmZhV1FpT2lKallXVmpOR015TVMxaU9XWmlMVFJsTVRVdFltTmpOQzB6TTJOak16UmxPV1UyTnpraUxDSmxlSEFpT2pFM01EUTVNalU0T1RNc0ltbHpjeUk2SW14cGRtVmZibVYzYzE5dFlXNXBabVZ6ZENJc0luQnNZWFJtYjNKdElqb2lWMFZDSWl3aWNuTnpJam9pWkhVNlZrbEVSVTlmVWtWVFQweFZWRWxQVGw4M01qQlFJaXdpZFhObGNsOXBaQ0k2TUgwLnVvWnJQazBncG53a0cwOWpiR0F2S3dEb1hoMkNxX1o5Mm1GeE9DZHdISjZ3T0xMRW1kbzNsM1lYd0h2TGFhMUJfQVpmazhIeXFTRDR4YlVweTdiZmpR
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Search.png",Scan
-https://webudit.webhd.ru/lb/premium[1]-[900]/index.m3u8
+https://webhdrus.onlinehdhls.ru/lb/premium[1]-[900]/index.m3u8
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Gltz.jpg",Galaz
 http://glzwizzlv.bynetcdn.com/glz_mp3?awCollectionId=misc&awEpisodeId=glz
