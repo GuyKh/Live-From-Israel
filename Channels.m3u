@@ -1,5 +1,29 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="שידור ישיר בזמן משחק." tvg-name="Seattle Seahawks" tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Seahawks.png" group-title="Text",Seattle Seahawks
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0
+#EXTVLCOPT:http-referrer=https://qqwebplay.xyz/ https://generalpill.net/ https://1stream.eu/
+#EXTVLCOPT:http-origin=https://qqwebplay.xyz https://generalpill.net https://1stream.eu/
+https://qehpdag7xfsywm4c39tzub.cdnessential.net:8443/hls/skryn8w1pgh.m3u8?s=gUmsqMyzb2RgypDrS_hniA&e=1724571184
+
+#EXTINF:-1 tvg-id="שידור ישיר בזמן משחק." tvg-name="Seattle Seahawks" tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Seahawks.png" group-title="Text",Seattle Seahawks
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0
+#EXTVLCOPT:http-referrer=https://qqwebplay.xyz/ https://generalpill.net/ https://1stream.eu/
+#EXTVLCOPT:http-origin=https://qqwebplay.xyz https://generalpill.net https://1stream.eu/
+https://asdfasdft.mizhls.ru/lb/ELj82ZClTB/index.m3u8
+
+#EXTINF:-1 tvg-id="שידור ישיר בזמן משחק." tvg-name="Seattle Seahawks" tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Seahawks.png" group-title="Text",Seattle Seahawks
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0
+#EXTVLCOPT:http-referrer=https://qqwebplay.xyz/ https://generalpill.net/ https://1stream.eu/
+#EXTVLCOPT:http-origin=https://qqwebplay.xyz https://generalpill.net https://1stream.eu/
+https://goozp.aslfd9okdj4dnn.shop/playlist/24847/red.dgkjsug58g.shop/caxi.m3u8
+
+#EXTINF:-1 tvg-id="שידור ישיר בזמן משחק." tvg-name="Seattle Seahawks" tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Seahawks.png" group-title="Text",Seattle Seahawks
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0
+#EXTVLCOPT:http-referrer=https://qqwebplay.xyz/ https://generalpill.net/ https://1stream.eu/
+#EXTVLCOPT:http-origin=https://qqwebplay.xyz https://generalpill.net https://1stream.eu/
+https://goozp.flkof9jk8ujjjs.shop/playlist/24847/goozr.dmnkfui8jjd3h2.shop/caxi.m3u8
+
 #EXTINF:-1 tvg-id="3787" tvg-name="Kan 11" tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Kan%2011.png" group-title="Walla",Kan 11
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0
 #EXTVLCOPT:http-referrer=https://lewblivehdplay.ru/
