@@ -156,7 +156,7 @@ https://webhdrunns.mizhls.ru/lb/premium148/index.m3u8
 #EXTVLCOPT:http-origin=https://lewblivehdplay.ru
 https://webhdrunns.mizhls.ru/lb/premium541/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Sport One 2" tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/SportOne-2.png" group-title="",Sport One 2
+#EXTINF:-1 tvg-id="Sport%20One%202" tvg-name="Sport One 2" tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/SportOne-2.png" group-title="WGP",Sport One 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0
 #EXTVLCOPT:http-referrer=https://lewblivehdplay.ru/
 #EXTVLCOPT:http-origin=https://lewblivehdplay.ru
@@ -186,19 +186,19 @@ https://webhdrunns.mizhls.ru/lb/premium405/index.m3u8
 #EXTVLCOPT:http-origin=https://lewblivehdplay.ru
 https://webhdrunns.mizhls.ru/lb/premium37/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Yes Movies Kids" tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/YesKids.png" group-title="",Yes Movies Kids
+#EXTINF:-1 tvg-id="Yes%20Movies%20Kids" tvg-name="Yes Movies Kids" tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/YesKids.png" group-title="WGP",Yes Movies Kids
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0
 #EXTVLCOPT:http-referrer=https://lewblivehdplay.ru/
 #EXTVLCOPT:http-origin=https://lewblivehdplay.ru
 https://webhdrunns.mizhls.ru/lb/premium544/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Yes Movies Action" tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/YesAction.png" group-title="",Yes Movies Action
+#EXTINF:-1 tvg-id="Yes%20Movies%20Action" tvg-name="Yes Movies Action" tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/YesAction.png" group-title="WGP",Yes Movies Action
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0
 #EXTVLCOPT:http-referrer=https://lewblivehdplay.ru/
 #EXTVLCOPT:http-origin=https://lewblivehdplay.ru
 https://webhdrunns.mizhls.ru/lb/premium543/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Yes Movies Comedy" tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/YesComedy.png" group-title="",Yes Movies Comedy
+#EXTINF:-1 tvg-id="Yes%20Movies%20Comedy" tvg-name="Yes Movies Comedy" tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/YesComedy.png" group-title="WGP",Yes Movies Comedy
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0
 #EXTVLCOPT:http-referrer=https://lewblivehdplay.ru/
 #EXTVLCOPT:http-origin=https://lewblivehdplay.ru
