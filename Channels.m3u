@@ -265,6 +265,11 @@ https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae0
 #EXTINF:-1 tvg-id="שידור חדשות חי, או הקלטת החדשות האחרונות." tvg-name="King 5 News" tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/King5News.png" group-title="Text",King 5 News
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0
 #EXTVLCOPT:http-origin=https://www.n12.co.il
+https://livevideo01.king5.com/hls/live/2006665/live/live.m3u8
+
+#EXTINF:-1 tvg-id="שידור חדשות חי, או הקלטת החדשות האחרונות." tvg-name="King 5 News" tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/King5News.png" group-title="Text",King 5 News
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0
+#EXTVLCOPT:http-origin=https://www.n12.co.il
 https://livevideo.tegnadigital.com/king/v1/master/f9c1bf9ffd6ac86b6173a7c169ff6e3f4efbd693/KING/live/live.m3u8
 
 #EXTINF:-1 tvg-id="שידור חדשות חי, או הקלטת החדשות האחרונות." tvg-name="Q13 News" tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Q13News.png" group-title="Text",Q13 News
