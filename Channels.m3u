@@ -34,7 +34,7 @@ https://cdnapisec.kaltura.com/p/2717431/sp/2717431/playManifest/entryId/1_syhxnt
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0
 #EXTVLCOPT:http-referrer=https://newembedplay.xyz/
 #EXTVLCOPT:http-origin=https://newembedplay.xyz
-https://windnew.iosplayer.ru/wind/premium548/index.m3u8
+https://zekonew.iosplayer.ru/zeko/premium548/mono.m3u8
 
 #EXTINF:-1 tvg-id="Kan%2011" tvg-name="Kan 11" tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Kan%2011.png" group-title="WGP",Kan 11
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0
@@ -64,7 +64,7 @@ https://mako-streaming.akamaized.net/stream/hls/live/2033791/k12/profile/3/profi
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0
 #EXTVLCOPT:http-referrer=https://www.n12.co.il/ https://newembedplay.xyz/
 #EXTVLCOPT:http-origin=https://www.n12.co.il
-https://windnew.iosplayer.ru/wind/premium549/index.m3u8
+https://zekonew.iosplayer.ru/zeko/premium549/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Reshet 13" tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Reshet%2013.jpg" group-title="Reshet",Reshet 13
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0
@@ -82,7 +82,7 @@ http://d198ztbnlup2iq.cloudfront.net/out/v1/2d9050c90fb94df8b78d1d98306a1a65/ind
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0
 #EXTVLCOPT:http-referrer=https://newembedplay.xyz/
 #EXTVLCOPT:http-origin=https://newembedplay.xyz
-https://windnew.iosplayer.ru/wind/premium551/index.m3u8
+https://zekonew.iosplayer.ru/zeko/premium551/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="i24 news" tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/i24news.jpg" group-title="i24",i24 news
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0
@@ -100,127 +100,127 @@ https://d2lckchr9cxrss.cloudfront.net/out/v1/c73af7694cce4767888c08a7534b503c/in
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0
 #EXTVLCOPT:http-referrer=https://newembedplay.xyz/
 #EXTVLCOPT:http-origin=https://newembedplay.xyz
-https://windnew.iosplayer.ru/wind/premium140/index.m3u8
+https://zekonew.iosplayer.ru/zeko/premium140/mono.m3u8
 
 #EXTINF:-1 tvg-id="3" tvg-name="Sport 2" tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Sport1-3.png" group-title="Sport1",Sport 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0
 #EXTVLCOPT:http-referrer=https://newembedplay.xyz/
 #EXTVLCOPT:http-origin=https://newembedplay.xyz
-https://windnew.iosplayer.ru/wind/premium141/index.m3u8
+https://zekonew.iosplayer.ru/zeko/premium141/mono.m3u8
 
 #EXTINF:-1 tvg-id="4" tvg-name="Sport 3" tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Sport1-4.png" group-title="Sport1",Sport 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0
 #EXTVLCOPT:http-referrer=https://newembedplay.xyz/
 #EXTVLCOPT:http-origin=https://newembedplay.xyz
-https://windnew.iosplayer.ru/wind/premium142/index.m3u8
+https://zekonew.iosplayer.ru/zeko/premium142/mono.m3u8
 
 #EXTINF:-1 tvg-id="5" tvg-name="Sport 4" tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Sport1-5.png" group-title="Sport1",Sport 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0
 #EXTVLCOPT:http-referrer=https://newembedplay.xyz/
 #EXTVLCOPT:http-origin=https://newembedplay.xyz
-https://windnew.iosplayer.ru/wind/premium143/index.m3u8
+https://zekonew.iosplayer.ru/zeko/premium143/mono.m3u8
 
 #EXTINF:-1 tvg-id="5" tvg-name="Sport 5" tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Sport-5.jpg" group-title="Sport5TV",Sport 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0
 #EXTVLCOPT:http-referrer=https://newembedplay.xyz/
 #EXTVLCOPT:http-origin=https://newembedplay.xyz
-https://windnew.iosplayer.ru/wind/premium144/index.m3u8
+https://zekonew.iosplayer.ru/zeko/premium144/mono.m3u8
 
 #EXTINF:-1 tvg-id="5P" tvg-name="Sport 5 Plus" tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Sport-5-Plus.jpg" group-title="Sport5TV",Sport 5 Plus
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0
 #EXTVLCOPT:http-referrer=https://newembedplay.xyz/
 #EXTVLCOPT:http-origin=https://newembedplay.xyz
-https://windnew.iosplayer.ru/wind/premium145/index.m3u8
+https://zekonew.iosplayer.ru/zeko/premium145/mono.m3u8
 
 #EXTINF:-1 tvg-id="LIVE" tvg-name="Sport 5 Live" tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Sport-5-Live.jpg" group-title="Sport5TV",Sport 5 Live
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0
 #EXTVLCOPT:http-referrer=https://newembedplay.xyz/
 #EXTVLCOPT:http-origin=https://newembedplay.xyz
-https://windnew.iosplayer.ru/wind/premium146/index.m3u8
+https://zekonew.iosplayer.ru/zeko/premium146/mono.m3u8
 
 #EXTINF:-1 tvg-id="5STARS" tvg-name="Sport 5 Stars" tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Sport-5-Stars.jpg" group-title="Sport5TV",Sport 5 Stars
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0
 #EXTVLCOPT:http-referrer=https://newembedplay.xyz/
 #EXTVLCOPT:http-origin=https://newembedplay.xyz
-https://windnew.iosplayer.ru/wind/premium147/index.m3u8
+https://zekonew.iosplayer.ru/zeko/premium147/mono.m3u8
 
 #EXTINF:-1 tvg-id="GOLD" tvg-name="Sport 5 Gold" tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Sport-5-Gold.jpg" group-title="Sport5TV",Sport 5 Gold
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0
 #EXTVLCOPT:http-referrer=https://newembedplay.xyz/
 #EXTVLCOPT:http-origin=https://newembedplay.xyz
-https://windnew.iosplayer.ru/wind/premium148/index.m3u8
+https://zekonew.iosplayer.ru/zeko/premium148/mono.m3u8
 
 #EXTINF:-1 tvg-id="3551" tvg-name="Sport One 1" tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/SportOne-1.png" group-title="Walla",Sport One 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0
 #EXTVLCOPT:http-referrer=https://newembedplay.xyz/
 #EXTVLCOPT:http-origin=https://newembedplay.xyz
-https://windnew.iosplayer.ru/wind/premium541/index.m3u8
+https://zekonew.iosplayer.ru/zeko/premium541/mono.m3u8
 
 #EXTINF:-1 tvg-id="Sport%20One%202" tvg-name="Sport One 2" tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/SportOne-2.png" group-title="WGP",Sport One 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0
 #EXTVLCOPT:http-referrer=https://newembedplay.xyz/
 #EXTVLCOPT:http-origin=https://newembedplay.xyz
-https://windnew.iosplayer.ru/wind/premium542/index.m3u8
+https://zekonew.iosplayer.ru/zeko/premium542/mono.m3u8
 
 #EXTINF:-1 tvg-id="10179" tvg-name="ESPN" tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/ESPN.png" group-title="flixed.io.ENG",ESPN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0
 #EXTVLCOPT:http-referrer=https://newembedplay.xyz/
 #EXTVLCOPT:http-origin=https://newembedplay.xyz
-https://windnew.iosplayer.ru/wind/premium44/index.m3u8
+https://zekonew.iosplayer.ru/zeko/premium44/mono.m3u8
 
 #EXTINF:-1 tvg-id="12444" tvg-name="ESPN 2" tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/ESPN2.png" group-title="flixed.io.ENG",ESPN 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0
 #EXTVLCOPT:http-referrer=https://newembedplay.xyz/
 #EXTVLCOPT:http-origin=https://newembedplay.xyz
-https://windnew.iosplayer.ru/wind/premium45/index.m3u8
+https://zekonew.iosplayer.ru/zeko/premium45/mono.m3u8
 
 #EXTINF:-1 tvg-id="45399" tvg-name="NFL Network" tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/NFLNetwork.png" group-title="flixed.io.ENG",NFL Network
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0
 #EXTVLCOPT:http-referrer=https://newembedplay.xyz/
 #EXTVLCOPT:http-origin=https://newembedplay.xyz
-https://windnew.iosplayer.ru/wind/premium405/index.m3u8
+https://zekonew.iosplayer.ru/zeko/premium405/mono.m3u8
 
 #EXTINF:-1 tvg-id="Sky%20Sports%20NFL" tvg-name="Sky Sports NFL" tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/SkySportsNFL.png" group-title="WGP.ENG",Sky Sports NFL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0
 #EXTVLCOPT:http-referrer=https://newembedplay.xyz/
 #EXTVLCOPT:http-origin=https://newembedplay.xyz
-https://windnew.iosplayer.ru/wind/premium37/index.m3u8
+https://zekonew.iosplayer.ru/zeko/premium37/mono.m3u8
 
 #EXTINF:-1 tvg-id="Sky%20Sports%20Main%20Event" tvg-name="Sky Sports Main Event" tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/SkySportsMainEvent.png" group-title="WGP.ENG",Sky Sports Main Event
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0
 #EXTVLCOPT:http-referrer=https://newembedplay.xyz/
 #EXTVLCOPT:http-origin=https://newembedplay.xyz
-https://windnew.iosplayer.ru/wind/premium38/index.m3u8
+https://zekonew.iosplayer.ru/zeko/premium38/mono.m3u8
 
 #EXTINF:-1 tvg-id="Yes%20Movies%20Kids" tvg-name="Yes Kids Movies" tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/YesKids.png" group-title="WGP",Yes Kids Movies
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0
 #EXTVLCOPT:http-referrer=https://newembedplay.xyz/
 #EXTVLCOPT:http-origin=https://newembedplay.xyz
-https://windnew.iosplayer.ru/wind/premium544/index.m3u8
+https://zekonew.iosplayer.ru/zeko/premium544/mono.m3u8
 
 #EXTINF:-1 tvg-id="Yes%20Movies%20Action" tvg-name="Yes Action Movies" tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/YesAction.png" group-title="WGP",Yes Action Movies
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0
 #EXTVLCOPT:http-referrer=https://newembedplay.xyz/
 #EXTVLCOPT:http-origin=https://newembedplay.xyz
-https://windnew.iosplayer.ru/wind/premium543/index.m3u8
+https://zekonew.iosplayer.ru/zeko/premium543/mono.m3u8
 
 #EXTINF:-1 tvg-id="Yes%20TV%20Action" tvg-name="Yes Action TV" tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/YesTVAction.png" group-title="WGP",Yes Action TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0
 #EXTVLCOPT:http-referrer=https://newembedplay.xyz/
 #EXTVLCOPT:http-origin=https://newembedplay.xyz
-https://windnew.iosplayer.ru/wind/premium543/index.m3u8
+https://zekonew.iosplayer.ru/zeko/premium543/mono.m3u8
 
 #EXTINF:-1 tvg-id="Yes%20Movies%20Comedy" tvg-name="Yes Comedy Movies" tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/YesComedy.png" group-title="WGP",Yes Comedy Movies
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0
 #EXTVLCOPT:http-referrer=https://newembedplay.xyz/
 #EXTVLCOPT:http-origin=https://newembedplay.xyz
-https://windnew.iosplayer.ru/wind/premium545/index.m3u8
+https://zekonew.iosplayer.ru/zeko/premium545/mono.m3u8
 
 #EXTINF:-1 tvg-id="353" tvg-name="Hot 3" tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Hot3.png" group-title="Walla",Hot 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0
 #EXTVLCOPT:http-referrer=https://newembedplay.xyz/
 #EXTVLCOPT:http-origin=https://newembedplay.xyz
-https://windnew.iosplayer.ru/wind/premium553/index.m3u8
+https://zekonew.iosplayer.ru/zeko/premium553/mono.m3u8
 
 #EXTINF:-1 tvg-id="255" tvg-name="Channel 24" tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/24.jpg" group-title="Walla",Channel 24
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0
@@ -281,7 +281,7 @@ https://csm-e-eb.csm.tubi.video/csm/live/622835763.m3u8?playback_start_ts=170466
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0
 #EXTVLCOPT:http-referrer=https://newembedplay.xyz/
 #EXTVLCOPT:http-origin=https://newembedplay.xyz
-https://windnew.iosplayer.ru/wind/premium[1]-[900]/index.m3u8
+https://zekonew.iosplayer.ru/zeko/premium[1]-[900]/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Galaz" tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Gltz.jpg" group-title="",Galaz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0
