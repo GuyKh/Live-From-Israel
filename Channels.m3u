@@ -154,25 +154,25 @@ https://zekonew.iosplayer.ru/zeko/premium148/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0
 #EXTVLCOPT:http-referrer=https://newembedplay.xyz/
 #EXTVLCOPT:http-origin=https://newembedplay.xyz
-https://zekonew.iosplayer.ru/zeko/premium541/mono.m3u8
+https://windnew.iosplayer.ru/wind/premium541/mono.m3u8
 
 #EXTINF:-1 tvg-id="Sport%20One%202" tvg-name="Sport One 2" tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/SportOne-2.png" group-title="WGP",Sport One 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0
 #EXTVLCOPT:http-referrer=https://newembedplay.xyz/
 #EXTVLCOPT:http-origin=https://newembedplay.xyz
-https://zekonew.iosplayer.ru/zeko/premium542/mono.m3u8
+https://ddy6new.iosplayer.ru/ddy6/premium542/mono.m3u8
 
 #EXTINF:-1 tvg-id="10179" tvg-name="ESPN" tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/ESPN.png" group-title="flixed.io.ENG",ESPN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0
 #EXTVLCOPT:http-referrer=https://newembedplay.xyz/
 #EXTVLCOPT:http-origin=https://newembedplay.xyz
-https://zekonew.iosplayer.ru/zeko/premium44/mono.m3u8
+https://ddh2new.iosplayer.ru/ddh2/premium44/mono.m3u8
 
 #EXTINF:-1 tvg-id="12444" tvg-name="ESPN 2" tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/ESPN2.png" group-title="flixed.io.ENG",ESPN 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0
 #EXTVLCOPT:http-referrer=https://newembedplay.xyz/
 #EXTVLCOPT:http-origin=https://newembedplay.xyz
-https://zekonew.iosplayer.ru/zeko/premium45/mono.m3u8
+https://windnew.iosplayer.ru/wind/premium45/mono.m3u8
 
 #EXTINF:-1 tvg-id="45399" tvg-name="NFL Network" tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/NFLNetwork.png" group-title="flixed.io.ENG",NFL Network
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0
@@ -184,7 +184,7 @@ https://zekonew.iosplayer.ru/zeko/premium405/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0
 #EXTVLCOPT:http-referrer=https://newembedplay.xyz/
 #EXTVLCOPT:http-origin=https://newembedplay.xyz
-https://zekonew.iosplayer.ru/zeko/premium37/mono.m3u8
+https://ddh2new.iosplayer.ru/ddh2/premium37/mono.m3u8
 
 #EXTINF:-1 tvg-id="Sky%20Sports%20Main%20Event" tvg-name="Sky Sports Main Event" tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/SkySportsMainEvent.png" group-title="WGP.ENG",Sky Sports Main Event
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0
@@ -255,12 +255,12 @@ https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 #EXTINF:-1 tvg-id="NEWS_NOW" tvg-name="NBC News" tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/NBCNews.png" group-title="NBC News ENG",NBC News
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0
 #EXTVLCOPT:http-origin=https://www.n12.co.il
-https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_us_nbcnewsnow_001.m3u8
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5df97894467dfa00091c873clivestitch/master.m3u8?deviceDNT=%7BTARGETOPT%7D&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceType=samsung-tvplus&deviceMake=samsung
 
 #EXTINF:-1 tvg-id="NEWS_NOW" tvg-name="NBC News" tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/NBCNews.png" group-title="NBC News ENG",NBC News
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0
 #EXTVLCOPT:http-origin=https://www.n12.co.il
-https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_ca_nbcnewsnow_001.m3u8
+https://d4ybyqrhce41r.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-xumo-linear-nbcu-hlsv3/master.m3u8?ads.channelId=99991247
 
 #EXTINF:-1 tvg-id="שידור חדשות חי, או הקלטת החדשות האחרונות." tvg-name="King 5 News" tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/King5News.png" group-title="Text",King 5 News
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0
