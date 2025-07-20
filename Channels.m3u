@@ -45,19 +45,19 @@ https://www.dailymotion.com/player/metadata/video/x7wjmog
 #EXTINF:-1 tvg-id="" tvg-name="Keshet 12" tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Keshet%2012.png" group-title="Mako",Keshet 12
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0
 #EXTVLCOPT:http-referrer=https://www.n12.co.il/ https://newembedplay.xyz/
-#EXTVLCOPT:http-origin=https://www.n12.co.il
+#EXTVLCOPT:http-origin=https://www.n12.co.il https://newembedplay.xyz
 https://mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/profile/5/profileManifest.m3u8?_uid=f0ea0c4b-0bfe-491a-a7d6-7cfd23125300&rK=a
 
 #EXTINF:-1 tvg-id="" tvg-name="Keshet 12" tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Keshet%2012.png" group-title="Mako",Keshet 12
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0
 #EXTVLCOPT:http-referrer=https://www.n12.co.il/ https://newembedplay.xyz/
-#EXTVLCOPT:http-origin=https://www.n12.co.il
+#EXTVLCOPT:http-origin=https://www.n12.co.il https://newembedplay.xyz
 temporary
 
 #EXTINF:-1 tvg-id="" tvg-name="Keshet 12" tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Keshet%2012.png" group-title="Mako",Keshet 12
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0
 #EXTVLCOPT:http-referrer=https://www.n12.co.il/ https://newembedplay.xyz/
-#EXTVLCOPT:http-origin=https://www.n12.co.il
+#EXTVLCOPT:http-origin=https://www.n12.co.il https://newembedplay.xyz
 https://zekonew.newkso.ru/zeko/premium549/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Reshet 13" tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Reshet%2013.jpg" group-title="Reshet",Reshet 13
