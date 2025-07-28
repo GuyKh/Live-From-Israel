@@ -5,16 +5,23 @@ on:
     - cron: '* */6 * * *' # every 6 hours
   workflow_dispatch: # on button click
 
+
+permissions:
+  contents: write             # needed so the bot can push
+
 jobs:
   sync:
 
     runs-on: ubuntu-latest
 
     steps:
-      - uses: tgymnich/fork-sync@v2.0.10
-        with:
-          token: ${{ secrets.PERSONAL_TOKEN }}
-          merge_method: rebase
+      - run: gh repo sync "$GITHUB_REPOSITORY" -s RokuIL/Live-From-Israel -b master
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+#      - uses: tgymnich/fork-sync@v2.0.10
+#        with:
+#          token: ${{ secrets.PERSONAL_TOKEN }}
+#          merge_method: rebase
           # owner: RokuIL
           # repo: Live-From-Israel
           # base: master
