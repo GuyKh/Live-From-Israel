@@ -1,5 +1,25 @@
 [
     {
+        "start":  "2025-10-06T00:30:00.0000000",
+        "title":  "NFL GameDay Highlights",
+        "end":  "2025-10-06T01:30:00.0000000"
+    },
+    {
+        "start":  "2025-10-06T01:30:00.0000000",
+        "title":  "NFL GameDay Highlights",
+        "end":  "2025-10-06T02:30:00.0000000"
+    },
+    {
+        "start":  "2025-10-06T02:30:00.0000000",
+        "title":  "NFL GameDay Highlights",
+        "end":  "2025-10-06T03:30:00.0000000"
+    },
+    {
+        "start":  "2025-10-06T03:30:00.0000000",
+        "title":  "Live: NFL GameDay Final",
+        "end":  "2025-10-06T04:30:00.0000000"
+    },
+    {
         "start":  "2025-10-06T04:30:00.0000000",
         "title":  "NFL GameDay Final",
         "end":  "2025-10-06T05:30:00.0000000"
@@ -16,7 +36,7 @@
     },
     {
         "start":  "2025-10-06T07:30:00.0000000",
-        "title":  "Sunday Night Football: New England Patriots at Buffalo Bills",
+        "title":  "NFL Football",
         "end":  "2025-10-06T10:00:00.0000000"
     },
     {
@@ -31,7 +51,7 @@
     },
     {
         "start":  "2025-10-06T12:00:00.0000000",
-        "title":  "Good Morning Football",
+        "title":  "Live: Good Morning Football",
         "end":  "2025-10-06T14:00:00.0000000"
     },
     {
@@ -51,7 +71,7 @@
     },
     {
         "start":  "2025-10-06T19:00:00.0000000",
-        "title":  "Sunday Night Football: New England Patriots at Buffalo Bills",
+        "title":  "NFL Football",
         "end":  "2025-10-06T22:00:00.0000000"
     },
     {
@@ -61,8 +81,8 @@
     },
     {
         "start":  "2025-10-06T23:00:00.0000000",
-        "title":  "NFL GameDay Kickoff",
-        "end":  "2025-10-07T00:15:00.0000000"
+        "title":  "Live: NFL GameDay Kickoff",
+        "end":  "2025-10-07T00:00:00.0000000"
     },
     {
         "start":  "2025-10-07T00:15:00.0000000",
@@ -71,22 +91,17 @@
     },
     {
         "start":  "2025-10-07T02:45:00.0000000",
-        "title":  "NFL Throwback: J.J. Watt Highlights",
+        "title":  "NFL Throwback",
         "end":  "2025-10-07T03:15:00.0000000"
     },
     {
         "start":  "2025-10-07T03:15:00.0000000",
-        "title":  "NFL GameDay Final",
+        "title":  "Live: NFL GameDay Final",
         "end":  "2025-10-07T04:15:00.0000000"
     },
     {
         "start":  "2025-10-07T04:15:00.0000000",
-        "title":  "Monday Night Football: Kansas City Chiefs at Jacksonville Jaguars",
-        "end":  "2025-10-07T04:15:00.0000000"
-    },
-    {
-        "start":  "2025-10-07T04:15:00.0000000",
-        "title":  "Monday Night Football: Kansas City Chiefs at Jacksonville Jaguars",
+        "title":  "NFL Football",
         "end":  "2025-10-07T07:00:00.0000000"
     },
     {
@@ -106,12 +121,12 @@
     },
     {
         "start":  "2025-10-07T10:00:00.0000000",
-        "title":  "Monday Night Football: Kansas City Chiefs at Jacksonville Jaguars",
+        "title":  "NFL Football",
         "end":  "2025-10-07T12:00:00.0000000"
     },
     {
         "start":  "2025-10-07T12:00:00.0000000",
-        "title":  "Good Morning Football",
+        "title":  "Live: Good Morning Football",
         "end":  "2025-10-07T14:00:00.0000000"
     },
     {
@@ -131,7 +146,7 @@
     },
     {
         "start":  "2025-10-07T19:00:00.0000000",
-        "title":  "Monday Night Football: Kansas City Chiefs at Jacksonville Jaguars",
+        "title":  "NFL Football",
         "end":  "2025-10-07T22:00:00.0000000"
     },
     {
@@ -141,7 +156,87 @@
     },
     {
         "start":  "2025-10-07T23:00:00.0000000",
-        "title":  "The Insiders",
+        "title":  "Live: The Insiders",
+        "end":  "2025-10-08T00:00:00.0000000"
+    },
+    {
+        "start":  "2025-10-08T00:00:00.0000000",
+        "title":  "NFL Football",
+        "end":  "2025-10-09T00:00:00.0000000"
+    },
+    {
+        "start":  "2025-10-07T00:15:00.0000000",
+        "title":  "NFL Football",
+        "end":  "2025-10-07T02:45:00.0000000"
+    },
+    {
+        "start":  "2025-10-07T02:45:00.0000000",
+        "title":  "NFL Throwback",
+        "end":  "2025-10-07T03:15:00.0000000"
+    },
+    {
+        "start":  "2025-10-07T03:15:00.0000000",
+        "title":  "Live: NFL GameDay Final",
+        "end":  "2025-10-07T04:15:00.0000000"
+    },
+    {
+        "start":  "2025-10-07T04:15:00.0000000",
+        "title":  "NFL Football",
+        "end":  "2025-10-07T07:00:00.0000000"
+    },
+    {
+        "start":  "2025-10-07T07:00:00.0000000",
+        "title":  "NFL GameDay Final",
+        "end":  "2025-10-07T08:00:00.0000000"
+    },
+    {
+        "start":  "2025-10-07T08:00:00.0000000",
+        "title":  "NFL GameDay Final",
+        "end":  "2025-10-07T09:00:00.0000000"
+    },
+    {
+        "start":  "2025-10-07T09:00:00.0000000",
+        "title":  "NFL GameDay Final",
+        "end":  "2025-10-07T10:00:00.0000000"
+    },
+    {
+        "start":  "2025-10-07T10:00:00.0000000",
+        "title":  "NFL Football",
+        "end":  "2025-10-07T12:00:00.0000000"
+    },
+    {
+        "start":  "2025-10-07T12:00:00.0000000",
+        "title":  "Live: Good Morning Football",
+        "end":  "2025-10-07T14:00:00.0000000"
+    },
+    {
+        "start":  "2025-10-07T14:00:00.0000000",
+        "title":  "Good Morning Football",
+        "end":  "2025-10-07T16:00:00.0000000"
+    },
+    {
+        "start":  "2025-10-07T16:00:00.0000000",
+        "title":  "Good Morning Football",
+        "end":  "2025-10-07T18:00:00.0000000"
+    },
+    {
+        "start":  "2025-10-07T18:00:00.0000000",
+        "title":  "Good Morning Football",
+        "end":  "2025-10-07T19:00:00.0000000"
+    },
+    {
+        "start":  "2025-10-07T19:00:00.0000000",
+        "title":  "NFL Football",
+        "end":  "2025-10-07T22:00:00.0000000"
+    },
+    {
+        "start":  "2025-10-07T22:00:00.0000000",
+        "title":  "NFL Fantasy Live",
+        "end":  "2025-10-07T23:00:00.0000000"
+    },
+    {
+        "start":  "2025-10-07T23:00:00.0000000",
+        "title":  "Live: The Insiders",
         "end":  "2025-10-08T00:00:00.0000000"
     },
     {
@@ -186,7 +281,7 @@
     },
     {
         "start":  "2025-10-08T12:00:00.0000000",
-        "title":  "Good Morning Football",
+        "title":  "Live: Good Morning Football",
         "end":  "2025-10-08T14:00:00.0000000"
     },
     {
@@ -216,7 +311,87 @@
     },
     {
         "start":  "2025-10-08T23:00:00.0000000",
+        "title":  "Live: The Insiders",
+        "end":  "2025-10-09T00:00:00.0000000"
+    },
+    {
+        "start":  "2025-10-09T00:00:00.0000000",
+        "title":  "NFL Football",
+        "end":  "2025-10-10T00:00:00.0000000"
+    },
+    {
+        "start":  "2025-10-08T00:00:00.0000000",
+        "title":  "NFL Football",
+        "end":  "2025-10-08T03:00:00.0000000"
+    },
+    {
+        "start":  "2025-10-08T03:00:00.0000000",
         "title":  "The Insiders",
+        "end":  "2025-10-08T04:00:00.0000000"
+    },
+    {
+        "start":  "2025-10-08T04:00:00.0000000",
+        "title":  "NFL Fantasy Live",
+        "end":  "2025-10-08T05:00:00.0000000"
+    },
+    {
+        "start":  "2025-10-08T05:00:00.0000000",
+        "title":  "NFL Football",
+        "end":  "2025-10-08T08:00:00.0000000"
+    },
+    {
+        "start":  "2025-10-08T08:00:00.0000000",
+        "title":  "The Insiders",
+        "end":  "2025-10-08T09:00:00.0000000"
+    },
+    {
+        "start":  "2025-10-08T09:00:00.0000000",
+        "title":  "NFL Fantasy Live",
+        "end":  "2025-10-08T10:00:00.0000000"
+    },
+    {
+        "start":  "2025-10-08T10:00:00.0000000",
+        "title":  "The Insiders",
+        "end":  "2025-10-08T11:00:00.0000000"
+    },
+    {
+        "start":  "2025-10-08T11:00:00.0000000",
+        "title":  "NFL Fantasy Live",
+        "end":  "2025-10-08T12:00:00.0000000"
+    },
+    {
+        "start":  "2025-10-08T12:00:00.0000000",
+        "title":  "Live: Good Morning Football",
+        "end":  "2025-10-08T14:00:00.0000000"
+    },
+    {
+        "start":  "2025-10-08T14:00:00.0000000",
+        "title":  "Good Morning Football",
+        "end":  "2025-10-08T16:00:00.0000000"
+    },
+    {
+        "start":  "2025-10-08T16:00:00.0000000",
+        "title":  "Good Morning Football",
+        "end":  "2025-10-08T18:00:00.0000000"
+    },
+    {
+        "start":  "2025-10-08T18:00:00.0000000",
+        "title":  "Good Morning Football",
+        "end":  "2025-10-08T19:00:00.0000000"
+    },
+    {
+        "start":  "2025-10-08T19:00:00.0000000",
+        "title":  "NFL Football",
+        "end":  "2025-10-08T22:00:00.0000000"
+    },
+    {
+        "start":  "2025-10-08T22:00:00.0000000",
+        "title":  "NFL Fantasy Live",
+        "end":  "2025-10-08T23:00:00.0000000"
+    },
+    {
+        "start":  "2025-10-08T23:00:00.0000000",
+        "title":  "Live: The Insiders",
         "end":  "2025-10-09T00:00:00.0000000"
     },
     {
@@ -232,201 +407,6 @@
     {
         "start":  "2025-10-09T04:00:00.0000000",
         "title":  "NFL Fantasy Live",
-        "end":  "2025-10-09T05:00:00.0000000"
-    },
-    {
-        "start":  "2025-10-09T05:00:00.0000000",
-        "title":  "NFL Football",
-        "end":  "2025-10-09T08:00:00.0000000"
-    },
-    {
-        "start":  "2025-10-09T08:00:00.0000000",
-        "title":  "The Insiders",
-        "end":  "2025-10-09T09:00:00.0000000"
-    },
-    {
-        "start":  "2025-10-09T09:00:00.0000000",
-        "title":  "NFL Fantasy Live",
-        "end":  "2025-10-09T10:00:00.0000000"
-    },
-    {
-        "start":  "2025-10-09T10:00:00.0000000",
-        "title":  "The Insiders",
-        "end":  "2025-10-09T11:00:00.0000000"
-    },
-    {
-        "start":  "2025-10-09T11:00:00.0000000",
-        "title":  "NFL Fantasy Live",
-        "end":  "2025-10-09T12:00:00.0000000"
-    },
-    {
-        "start":  "2025-10-09T12:00:00.0000000",
-        "title":  "Good Morning Football",
-        "end":  "2025-10-09T14:00:00.0000000"
-    },
-    {
-        "start":  "2025-10-09T14:00:00.0000000",
-        "title":  "Good Morning Football",
-        "end":  "2025-10-09T16:00:00.0000000"
-    },
-    {
-        "start":  "2025-10-09T16:00:00.0000000",
-        "title":  "Good Morning Football",
-        "end":  "2025-10-09T18:00:00.0000000"
-    },
-    {
-        "start":  "2025-10-09T18:00:00.0000000",
-        "title":  "NFL Football",
-        "end":  "2025-10-09T21:00:00.0000000"
-    },
-    {
-        "start":  "2025-10-09T21:00:00.0000000",
-        "title":  "NFL Fantasy Live",
-        "end":  "2025-10-09T22:00:00.0000000"
-    },
-    {
-        "start":  "2025-10-09T22:00:00.0000000",
-        "title":  "NFL GameDay Kickoff",
-        "end":  "2025-10-09T23:30:00.0000000"
-    },
-    {
-        "start":  "2025-10-09T23:30:00.0000000",
-        "title":  "NFL GameDay Kickoff",
         "end":  "2025-10-10T00:00:00.0000000"
-    },
-    {
-        "start":  "2025-10-10T00:00:00.0000000",
-        "title":  "NFL GameDay Kickoff",
-        "end":  "2025-10-10T00:15:00.0000000"
-    },
-    {
-        "start":  "2025-10-10T00:15:00.0000000",
-        "title":  "NFL Football",
-        "end":  "2025-10-10T03:15:00.0000000"
-    },
-    {
-        "start":  "2025-10-10T03:15:00.0000000",
-        "title":  "NFL GameDay Final",
-        "end":  "2025-10-10T03:45:00.0000000"
-    },
-    {
-        "start":  "2025-10-10T03:45:00.0000000",
-        "title":  "NFL GameDay Final",
-        "end":  "2025-10-10T04:15:00.0000000"
-    },
-    {
-        "start":  "2025-10-10T04:15:00.0000000",
-        "title":  "Thursday Night Football: Philadelphia Eagles at New York Giants",
-        "end":  "2025-10-10T04:15:00.0000000"
-    },
-    {
-        "start":  "2025-10-10T04:15:00.0000000",
-        "title":  "Thursday Night Football: Philadelphia Eagles at New York Giants",
-        "end":  "2025-10-10T07:00:00.0000000"
-    },
-    {
-        "start":  "2025-10-10T07:00:00.0000000",
-        "title":  "NFL GameDay Final",
-        "end":  "2025-10-10T08:00:00.0000000"
-    },
-    {
-        "start":  "2025-10-10T08:00:00.0000000",
-        "title":  "NFL GameDay Final",
-        "end":  "2025-10-10T09:00:00.0000000"
-    },
-    {
-        "start":  "2025-10-10T09:00:00.0000000",
-        "title":  "NFL GameDay Final",
-        "end":  "2025-10-10T10:00:00.0000000"
-    },
-    {
-        "start":  "2025-10-10T10:00:00.0000000",
-        "title":  "Thursday Night Football: Philadelphia Eagles at New York Giants",
-        "end":  "2025-10-10T12:00:00.0000000"
-    },
-    {
-        "start":  "2025-10-10T12:00:00.0000000",
-        "title":  "Good Morning Football",
-        "end":  "2025-10-10T14:00:00.0000000"
-    },
-    {
-        "start":  "2025-10-10T14:00:00.0000000",
-        "title":  "Good Morning Football",
-        "end":  "2025-10-10T16:00:00.0000000"
-    },
-    {
-        "start":  "2025-10-10T16:00:00.0000000",
-        "title":  "Good Morning Football",
-        "end":  "2025-10-10T18:00:00.0000000"
-    },
-    {
-        "start":  "2025-10-10T18:00:00.0000000",
-        "title":  "NFL GameDay View",
-        "end":  "2025-10-10T19:00:00.0000000"
-    },
-    {
-        "start":  "2025-10-10T19:00:00.0000000",
-        "title":  "Thursday Night Football: Philadelphia Eagles at New York Giants",
-        "end":  "2025-10-10T22:00:00.0000000"
-    },
-    {
-        "start":  "2025-10-10T22:00:00.0000000",
-        "title":  "NFL Fantasy Live",
-        "end":  "2025-10-10T23:00:00.0000000"
-    },
-    {
-        "start":  "2025-10-10T23:00:00.0000000",
-        "title":  "The Insiders",
-        "end":  "2025-10-11T00:00:00.0000000"
-    },
-    {
-        "start":  "2025-10-11T00:00:00.0000000",
-        "title":  "Thursday Night Football: Philadelphia Eagles at New York Giants",
-        "end":  "2025-10-11T03:00:00.0000000"
-    },
-    {
-        "start":  "2025-10-11T03:00:00.0000000",
-        "title":  "NFL GameDay View",
-        "end":  "2025-10-11T04:00:00.0000000"
-    },
-    {
-        "start":  "2025-10-11T04:00:00.0000000",
-        "title":  "NFL Fantasy Live",
-        "end":  "2025-10-11T05:00:00.0000000"
-    },
-    {
-        "start":  "2025-10-11T05:00:00.0000000",
-        "title":  "NFL Football",
-        "end":  "2025-10-11T08:00:00.0000000"
-    },
-    {
-        "start":  "2025-10-11T08:00:00.0000000",
-        "title":  "The Insiders",
-        "end":  "2025-10-11T09:00:00.0000000"
-    },
-    {
-        "start":  "2025-10-11T09:00:00.0000000",
-        "title":  "NFL Fantasy Live",
-        "end":  "2025-10-11T10:00:00.0000000"
-    },
-    {
-        "start":  "2025-10-11T10:00:00.0000000",
-        "title":  "NFL GameDay View",
-        "end":  "2025-10-11T11:00:00.0000000"
-    },
-    {
-        "start":  "2025-10-11T11:00:00.0000000",
-        "title":  "NFL Fantasy Live",
-        "end":  "2025-10-11T12:00:00.0000000"
-    },
-    {
-        "start":  "2025-10-11T12:00:00.0000000",
-        "title":  "Good Morning Football",
-        "end":  "2025-10-11T14:00:00.0000000"
-    },
-    {
-        "start":  "2025-10-11T14:00:00.0000000",
-        "title":  "Thursday Night Football: Philadelphia Eagles at New York Giants",
-        "end":  "2025-10-11T17:00:00.0000000"
     }
 ]
