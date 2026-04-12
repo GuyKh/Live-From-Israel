@@ -1,0 +1,54 @@
+name: Generate M3U from Json and Push to Master
+
+on:
+  push:
+    paths:
+      - 'Channels.json'
+  repository_dispatch:
+    types: [workflow-trigger]
+  workflow_dispatch: # on button click
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        name: Checkout
+      - uses: actions/setup-python@v5
+        name: Setup Python
+      - name: execute py script # run the run.py to get the latest data
+        run: |
+          python jsonToM3u.py Channels.json
+      - name: Check last commit message and handle files
+        id: git_operations
+        run: |
+          git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add Channels.m3u
+
+          # Check if there are any changes to commit
+          if git diff-index --quiet HEAD; then
+            echo "No changes to commit"
+            echo "should_commit=false" >> $GITHUB_OUTPUT
+          else
+            # Get the last commit message
+            last_commit_msg=$(git log -1 --pretty=%B)
+            echo "Last commit message: $last_commit_msg"
+
+            if [ "$last_commit_msg" = "Auto-Generate Channels.m3u" ]; then
+              # Amend the previous commit
+              git commit --amend -m "Auto-Generate Channels.m3u" --no-edit
+              echo "commit_type=amend" >> $GITHUB_OUTPUT
+            else
+              # Create a new commit
+              git commit -m "Auto-Generate Channels.m3u"
+              echo "commit_type=new" >> $GITHUB_OUTPUT
+            fi
+            echo "should_commit=true" >> $GITHUB_OUTPUT
+          fi
+      - name: Push changes
+        if: steps.git_operations.outputs.should_commit == 'true'
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          force: ${{ steps.git_operations.outputs.commit_type == 'amend' }}
