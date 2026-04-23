@@ -23,10 +23,10 @@
                 "Referer:https://embedsports.top/ https://a.embedsports.top/ https://streams.center/ https://streams.center/"
             ],
             "StreamUrls": [
+                "",
+                "",
+                "",
                 ""
-                ,""
-                ,""
-                ,""
             ]
         },  
         {
@@ -40,14 +40,14 @@
             "StreamFormat": "hls",
             "Headers": [
                 "User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0",
-                "Origin:https://ninguno.cc/ https://hamis.romponalis.st/ https://exposestrat.com https://embed.st https://embedsports.top https://a.embedsports.top https://streams.center https://streams.center",
-                "Referer:https://ninguno.cc https://hamis.romponalis.st https://exposestrat.com/ https://embed.st/ https://embedsports.top/ https://a.embedsports.top/ https://streams.center/ https://streams.center/"
+                "Origin:https://embedsports.top https://a.embedsports.top https://streams.center https://streams.center",
+                "Referer:https://embedsports.top/ https://a.embedsports.top/ https://streams.center/ https://streams.center/"
             ],
             "StreamUrls": [
+                "",
+                "",
+                "",
                 ""
-                ,""
-                ,""
-                ,""
             ]
         },  
         {
@@ -83,9 +83,7 @@
                 "User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0"
             ],
             "StreamUrls": [
-                "https://mako-streaming.akamaized.net@@MAKO:lp=@@/stream/hls/live/20000821/k12n12wad/index.m3u8@@?@@TICKET@@"
-                ,"http://stream.mcquack.net/294/index.m3u8"
-                ,"https://mako-streaming.akamaized.net@@MAKO:lp=@@/direct/hls/live/2033791/k12dvr/index.m3u8@@?@@TICKET@@"
+                "https://mako-streaming.akamaized.net@@MAKO:lp=@@/direct/hls/live/2033791/k12dvr/index.m3u8@@?@@TICKET@@"
                 ,"https://mako-streaming.akamaized.net@@MAKO:lp=@@/n12/hls/live/2041434/n12_b/index.m3u8@@?@@TICKET@@"
                 ,"https://mako-streaming.akamaized.net@@MAKO:lp=@@/n12/hls/live/2103938/k12/index.m3u8@@?@@TICKET@@"
                 ,"https://mako-streaming.akamaized.net@@MAKO:lp=@@/stream/hls/live/2033791/k12n12wad/index.m3u8@@?@@TICKET@@"

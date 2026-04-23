@@ -1,0 +1,78 @@
+name: Sync Fork
+
+on:
+  schedule:
+    - cron: '* */6 * * *' # every 6 hours
+  workflow_dispatch: # on button click
+
+
+permissions:
+  contents: write             # needed so the bot can push
+
+jobs:
+  sync:
+
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v6
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          ref: master
+          fetch-depth: 0
+          persist-credentials: true
+
+      - name: Configure git user
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+      - name: Add upstream remote
+        run: |
+          git remote add upstream https://github.com/RokuIL/Live-From-Israel.git || true
+
+      - name: Fetch upstream
+        run: git fetch upstream
+
+      - name: Get current Channels.json hash before sync
+        id: hash_before
+        run: |
+          if [ -f Channels.json ]; then
+            echo "hash=$(git hash-object Channels.json)" >> $GITHUB_OUTPUT
+          else
+            echo "hash=null" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Rebase onto upstream/master
+        run: git rebase -X theirs upstream/master
+
+      - name: Push rebased branch
+        run: git push --force-with-lease origin HEAD:master
+
+      - name: Check if Channels.json changed during sync
+        id: check_change
+        run: |
+          if [ -f Channels.json ]; then
+            hash_after=$(git hash-object Channels.json)
+            hash_before=${{ steps.hash_before.outputs.hash }}
+            if [ "$hash_before" = "null" ] && [ -f Channels.json ]; then
+              # File didn't exist before but now does
+              echo "changed=true" >> $GITHUB_OUTPUT
+            elif [ "$hash_before" != "$hash_after" ]; then
+              # File content changed
+              echo "changed=true" >> $GITHUB_OUTPUT
+            else
+              echo "changed=false" >> $GITHUB_OUTPUT
+            fi
+          else
+            # File doesn't exist after sync
+            echo "changed=false" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Trigger generate-m3u-and-push-to-master workflow if Channels.json changed
+        if: steps.check_change.outputs.changed == 'true'
+        uses: peter-evans/repository-dispatch@v4
+        with:
+          event-type: workflow-trigger
+          token: ${{ secrets.GITHUB_TOKEN }}
+#          repository: ${{ github.repository }}
